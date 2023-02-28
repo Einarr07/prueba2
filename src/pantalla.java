@@ -14,8 +14,6 @@ public class pantalla {
     private JComboBox mesBox;
     private JComboBox diaBox;
     private JComboBox anioBox;
-
-
     private JButton guardarButton;
 
     Connection con;
